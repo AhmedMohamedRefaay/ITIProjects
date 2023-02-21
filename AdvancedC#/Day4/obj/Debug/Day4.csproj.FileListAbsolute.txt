@@ -1,0 +1,12 @@
+F:\AdvancedC#\VisualCsharp\Day4\bin\Debug\Day4.exe.config
+F:\AdvancedC#\VisualCsharp\Day4\bin\Debug\Day4.exe
+F:\AdvancedC#\VisualCsharp\Day4\bin\Debug\Day4.pdb
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.csproj.AssemblyReference.cache
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.Properties.Resources.resources
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.csproj.GenerateResource.cache
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.csproj.CoreCompileInputs.cache
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.exe
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.pdb
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.Form1.resources
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.Form2.resources
+F:\AdvancedC#\VisualCsharp\Day4\obj\Debug\Day4.Form3.resources

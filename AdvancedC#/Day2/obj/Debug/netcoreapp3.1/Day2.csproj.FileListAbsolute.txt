@@ -1,0 +1,14 @@
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.AssemblyReference.cache
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.GeneratedMSBuildEditorConfig.editorconfig
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfoInputs.cache
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfo.cs
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.CoreCompileInputs.cache
+F:\AdvancedC#\VisualCsharp\Day2\bin\Debug\netcoreapp3.1\Day2.exe
+F:\AdvancedC#\VisualCsharp\Day2\bin\Debug\netcoreapp3.1\Day2.deps.json
+F:\AdvancedC#\VisualCsharp\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.json
+F:\AdvancedC#\VisualCsharp\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.dev.json
+F:\AdvancedC#\VisualCsharp\Day2\bin\Debug\netcoreapp3.1\Day2.dll
+F:\AdvancedC#\VisualCsharp\Day2\bin\Debug\netcoreapp3.1\Day2.pdb
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.dll
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.pdb
+F:\AdvancedC#\VisualCsharp\Day2\obj\Debug\netcoreapp3.1\Day2.genruntimeconfig.cache
